@@ -1,0 +1,10 @@
+.DS_Store
+.idea/*
+testng.xml
+.idea
+/target/*
+/allure-results/*
+*.iml
+/test-output/*
+ajcore.*
+/allure-report/*
